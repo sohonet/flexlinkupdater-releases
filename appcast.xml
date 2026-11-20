@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FlexLink Updater</title>
+        <item>
+            <title>FlexLink Updater 1.194.0</title>
+            <pubDate>Fri, 20 Nov 2026 16:48:41 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.194.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sohonet/flexlinkupdater-releases/releases/download/1.194.0-7/FlexLink-Updater-1.194.0.dmg" length="8992227" type="application/octet-stream" sparkle:edSignature="Dr+1r8534dYxwjLV6mj1HE1dWVN634E0dfuwrhcviCzKlC7KQUlJ7ocD6dObm+xau45ywSHn5EWkr2kfiS9dCg=="></enclosure>
+        </item>
+    </channel>
+</rss>
