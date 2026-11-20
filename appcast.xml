@@ -3,6 +3,14 @@
     <channel>
         <title>FlexLink Updater</title>
         <item>
+            <title>FlexLink Updater 1.198.0</title>
+            <pubDate>Fri, 20 Nov 2026 23:34:21 +0000</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.198.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sohonet/flexlinkupdater-releases/releases/download/1.198.0-33/FlexLink-Updater-1.198.0.dmg" length="9146955" type="application/octet-stream" sparkle:edSignature="AMKnpyWqkgnJMgsvMiZblF07ve+UJhUKNwcb5LEQGyYr86BI5N/bib0TifZErTpPecHq3VRLQePiZLHScwCkCQ=="></enclosure>
+        </item>
+        <item>
             <title>FlexLink Updater 1.197.1</title>
             <pubDate>Fri, 20 Nov 2026 23:28:02 +0000</pubDate>
             <sparkle:version>32</sparkle:version>
